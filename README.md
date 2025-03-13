@@ -1,6 +1,7 @@
 # literate-giggle
-#include<stdio.h>
-int main(void){
-  printf("Hello nigger");
-}
-
+## Introduction to this repo
+This text is for introduciton purposes.
+## Some other heading.
+A quick brown fox jumps right over the lazy dog.
+### ANother subsub heading
+text.
